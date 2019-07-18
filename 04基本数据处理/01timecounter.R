@@ -3,5 +3,4 @@ nowadays <- as.Date(Sys.Date())
 
 days <- nowadays - startdate
 
-
 difftime(nowadays, startdate, units = "weeks")
