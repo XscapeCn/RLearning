@@ -1,5 +1,4 @@
 #https://baike.baidu.com/item/%E6%A0%B8%E5%AF%86%E5%BA%A6%E4%BC%B0%E8%AE%A1/10349033?fr=aladdin
-#以上为核密度（KDE）介�?
 
 par(mfrow = c(2,1))
 d <- density(mtcars$mpg)
